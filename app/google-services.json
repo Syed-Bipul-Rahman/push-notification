@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962675431189",
+    "project_id": "push-notification-f259a",
+    "storage_bucket": "push-notification-f259a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962675431189:android:3039f0929a0770c0863b1c",
+        "android_client_info": {
+          "package_name": "com.bipapp.apps.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA0qaHcPrkztkC_EteccqlcQiuVW7hCMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
